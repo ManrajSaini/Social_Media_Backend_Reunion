@@ -45,4 +45,4 @@
 - Database: MongoDB
 
 
-- Provide the list of the functional testcases specific to each API endpoint with description in an Excel sheet
+- Provided the list of the functional testcases specific to each API endpoint with description in an Excel sheet
