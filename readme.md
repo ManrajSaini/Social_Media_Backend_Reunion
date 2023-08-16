@@ -2,7 +2,7 @@
 
 - Build APIs for a social media platform in NodeJS
 - The API should support features like getting a user profile, follow a user, upload a post, delete a post, like a post, unlike a liked post, and comment on a post
-- Design the database schema and implement in PostgreSQL or MongoDB
+- Design the database schema and implement in MongoDB
 
 ### **API Endpoints**
 
@@ -44,5 +44,5 @@
 - Backend: NodeJS (using ExpressJS)
 - Database: MongoDB
 
-
+- Tested all API endpoints using POSTMAN.
 - Provided the list of the functional testcases specific to each API endpoint with description in an Excel sheet
